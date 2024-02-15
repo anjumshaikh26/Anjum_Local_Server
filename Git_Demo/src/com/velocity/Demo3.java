@@ -8,6 +8,7 @@ public class Demo3 {
 		int y=050;
 		long z=200;
 		System.out.println(x+y+z);
+		System.out.println("this is new line");
 	}
 
 }
